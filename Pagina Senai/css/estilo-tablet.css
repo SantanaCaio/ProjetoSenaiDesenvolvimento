@@ -1,0 +1,74 @@
+.container-grid {
+    width: 85%;
+}
+
+.menu-header {
+    width: 100%;
+}
+
+.conteudo-sobre{
+    width: 100%;
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 430;
+    justify-content: space-between;
+}
+
+.info {
+    height: 600px;
+}
+
+.conteudo-info {
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagem-sobre{
+    width: 100%;
+}
+
+.sobre-projetos{
+    display: flex;
+    align-items: center;
+}
+
+.texto-sobre{
+    width: 100%;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 430px;
+    justify-content: space-between;
+}
+
+.conteudo-endereco{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 660px;
+    justify-content: space-between;
+}
+
+.conteudo-info{
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.conteudo-endereco h2{
+    align-self: flex-start;
+}
+
+.texto-endereco p{
+    width: 100%;
+}
+
+.mapa {
+    position: unset;
+    width: 400px;
+}
